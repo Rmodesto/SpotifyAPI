@@ -6,3 +6,5 @@ __pycache__/
 .DS_Store
 .txt
 *.txt
+.env
+credentials.txt
