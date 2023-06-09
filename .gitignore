@@ -1,0 +1,8 @@
+# .gitignore file
+__pycache__/
+*.py[cod]
+*.env   # Excluding environment variables file
+*.ipynb_checkpoints
+.DS_Store
+.txt
+*.txt
